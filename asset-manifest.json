@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todosapp/static/css/main.dadabbe4.css",
+    "main.js": "/todosapp/static/js/main.54ba7cd8.js",
+    "index.html": "/todosapp/index.html",
+    "static/media/delete.svg": "/todosapp/static/media/delete.2cfbc54deebd87d7ea9cf648765e70a5.svg",
+    "static/media/check.svg": "/todosapp/static/media/check.ec0a68811eaff4a8aabfbaf34839ccbf.svg",
+    "main.dadabbe4.css.map": "/todosapp/static/css/main.dadabbe4.css.map",
+    "main.54ba7cd8.js.map": "/todosapp/static/js/main.54ba7cd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dadabbe4.css",
+    "static/js/main.54ba7cd8.js"
+  ]
+}
